@@ -6,6 +6,7 @@
   font-weight: bold;
   width: 100%;
   box-sizing: border-box;
+  height: 100px;
 }
 
 .footer-content {
@@ -27,7 +28,6 @@
 }
 
 .logo-link .header-logo {
-  height: 50px;
   border: none;
 }
 
@@ -39,6 +39,7 @@
 }
 
 .teal-logo {
+  height: 40px;
   transform: scale(3);
   border: none;
 }
